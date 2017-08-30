@@ -1,0 +1,9 @@
+.dashboard {
+  width: auto;
+  margin: 20px;
+  background-color: #00BFB2;
+}
+.column {
+  margin: 5px;
+  padding: 5px 15px;
+}
